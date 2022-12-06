@@ -4,9 +4,9 @@
 - Independent Apple developer.
 - Mac app evangelist.
 - Swift & Swift UI enthusiast.
-- Author of [macOS by Tutorials](https://www.raywenderlich.com/books/macos-by-tutorials)
+- Author of [macOS by Tutorials]([https://www.raywenderlich.com/books/macos-by-tutorials](https://www.kodeco.com/books/macos-by-tutorials))
 
-[<img src="https://assets.alexandria.raywenderlich.com/books/e42d9aa64f26967986bc2be0b4dfa930c96113b477fe90c50b798b28b1a9b6e6/images/21d4b4b026e8c0ad4471929a3bb073a9/w594.png" height="300" alt="Book cover">](https://www.raywenderlich.com/books/macos-by-tutorials)
+[<img src="https://assets.alexandria.raywenderlich.com/books/e42d9aa64f26967986bc2be0b4dfa930c96113b477fe90c50b798b28b1a9b6e6/images/21d4b4b026e8c0ad4471929a3bb073a9/original.png" height="300" alt="Book cover">](https://www.kodeco.com/books/macos-by-tutorials)
 
 Read my blog posts at [https://troz.net](https://troz.net)
-Follow me on [Twitter](https://twitter.com/trozware) or on [dev.to](https://dev.to/trozware)
+Follow me on [Mastodon](@troz@mastodon.social), [Twitter](https://twitter.com/trozware) or on [dev.to](https://dev.to/trozware)
