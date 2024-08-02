@@ -1,14 +1,16 @@
 # Sarah Reichelt
 ## TrozWare
 
-- Independent Apple developer.
-- Mac app evangelist.
-- Swift & Swift UI enthusiast.
-- Author of [macOS Apprentice](https://www.kodeco.com/books/macos-apprentice)
-- Author of [macOS by Tutorials](https://www.kodeco.com/books/macos-by-tutorials)
+- Mac developer and author.
+- Lover of Apple computers and devices.
+- Swift & SwiftUI enthusiast.
+- Unofficial Mac app dev evangelist.
 
+* Author of [macOS by Tutorials](https://troz.net/books/macos_tutorials/)
+* Author of [macOS Apprentice](https://www.kodeco.com/books/macos-apprentice)
+
+[<img src="https://troz.net/images/mos_cover_small.png" height="300" alt="Book cover">](https://troz.net/books/macos_tutorials/)
 [<img src="https://troz.net/images/book_cover_2.png" height="300" alt="Book cover">](https://www.kodeco.com/books/macos-apprentice)
-[<img src="https://troz.net/images/book_cover.png" height="300" alt="Book cover">](https://www.kodeco.com/books/macos-by-tutorials)
 
 Read my blog posts at [https://troz.net](https://troz.net)   
 Follow me on [Mastodon](https://mastodon.social/@troz), other links at [Linktree](https://linktr.ee/trozware)
